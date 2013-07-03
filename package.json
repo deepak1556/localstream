@@ -1,0 +1,15 @@
+{
+  "name": "localstream",
+  "version": "1.0.0",
+  "description": "access localstorage with the node stream API",
+  "scripts": {
+    "start": "beefy test.js:demo-bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deepak1556/localstream.git"
+  },
+  "author": "robo",
+  "license": "BSD",
+  "readmeFilename": "readme.md"
+}
