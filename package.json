@@ -5,6 +5,11 @@
   "scripts": {
     "start": "beefy test.js:demo-bundle.js"
   },
+  "keywords": [
+    "localstorage",
+    "stream",
+    "streams"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/deepak1556/localstream.git"

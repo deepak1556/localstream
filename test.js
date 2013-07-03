@@ -1,4 +1,4 @@
-var localstream = require('localstream');
+var localstream = require('./');
 
 localstream.set("bar", foo);
 localstream.get("bar")
